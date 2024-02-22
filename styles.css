@@ -1,0 +1,58 @@
+.romana{
+text-align: center;
+font-size: 35px;
+}
+.body{
+    background: lightgray;
+}
+.produccion,.lote-cc,.fecha-sacrificio,.fecha-produccion{
+width: 30%;
+position:relative;
+margin-bottom: 1%;
+}
+.peso{
+width: 20%;
+height: 10%;
+text-align: center;
+font-size: 400%;
+position: static;
+margin-left: 0%;
+}
+.tara{
+margin-left: 5%;
+width: 10%;
+height: 10%;
+font-size: 300%;
+}
+
+/*botones de los cortes*/
+.botones{
+margin:auto;
+width: 50%;
+height: 20%;
+margin-left: 1%;
+margin-right: 90%;
+font-size: 70px;
+}
+.btn-cortes{
+background: lightblue;
+width: 60px;
+height: 60px;
+border-radius: 8px;
+}
+.btn-cortes:hover{
+width: 70px;
+height: 70px;
+font-style: italic;
+}
+.resumen-btn{
+margin-left: 80%;
+border-radius: 8px;
+background: burlywood;
+width: 200px;
+height: 60px;
+margin-bottom: 20px;
+margin-left: 60%;
+font-size: 25px;
+
+}

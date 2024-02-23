@@ -5,10 +5,14 @@ font-size: 35px;
 .body{
     background: lightgray;
 }
-.produccion,.lote-cc,.fecha-sacrificio,.fecha-produccion{
-width: 30%;
+.lote-cc,.fecha-sacrificio,.fecha-produccion{
+width: 15%;
 position:relative;
 margin-bottom: 1%;
+}
+.etiqueta{
+margin-left: 20%;
+margin-top: 0px;
 }
 .peso{
 width: 20%;
@@ -27,11 +31,8 @@ font-size: 300%;
 
 /*botones de los cortes*/
 .botones{
-margin:auto;
-width: 50%;
-height: 20%;
-margin-left: 1%;
-margin-right: 90%;
+width: 60%;
+height: 10%;
 font-size: 70px;
 }
 .btn-cortes{
@@ -54,5 +55,9 @@ height: 60px;
 margin-bottom: 20px;
 margin-left: 60%;
 font-size: 25px;
+}
+.panel{
+margin-right: 1%;
+margin-left: 55%;
 
 }

@@ -2,17 +2,24 @@
 text-align: center;
 font-size: 35px;
 }
+.logo{
+margin-left: 80%;
+position: absolute;
+
+}
 .body{
     background: lightgray;
 }
 .lote-cc,.fecha-sacrificio,.fecha-produccion{
 width: 15%;
+height: 3%;
 position:relative;
 margin-bottom: 1%;
 }
-.etiqueta{
-margin-left: 20%;
-margin-top: 0px;
+.etiqueta,.consecutivo,.tipo-produccion{
+margin-left: 2%;
+height: 4%;
+
 }
 .peso{
 width: 20%;
@@ -27,6 +34,7 @@ margin-left: 5%;
 width: 10%;
 height: 10%;
 font-size: 300%;
+text-align: center;
 }
 
 /*botones de los cortes*/
@@ -34,6 +42,7 @@ font-size: 300%;
 width: 60%;
 height: 10%;
 font-size: 70px;
+position: absolute;
 }
 .btn-cortes{
 background: lightblue;
@@ -54,10 +63,11 @@ width: 200px;
 height: 60px;
 margin-bottom: 20px;
 margin-left: 60%;
-font-size: 25px;
+font-size: 20px;
 }
 .panel{
 margin-right: 1%;
 margin-left: 55%;
+
 
 }

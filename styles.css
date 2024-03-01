@@ -30,7 +30,7 @@ position: static;
 margin-left: 0%;
 }
 .tara{
-margin-left: 5%;
+margin-left: 15%;
 width: 10%;
 height: 10%;
 font-size: 300%;
@@ -59,8 +59,8 @@ font-style: italic;
 margin-left: 80%;
 border-radius: 8px;
 background: burlywood;
-width: 200px;
-height: 60px;
+width: 180px;
+height: 50px;
 margin-bottom: 20px;
 margin-left: 60%;
 font-size: 20px;
@@ -68,6 +68,9 @@ font-size: 20px;
 .panel{
 margin-right: 1%;
 margin-left: 55%;
-
-
+}
+.resumen-btn:hover{
+font-style: italic;
+height: 60px;
+transition: 100ms;
 }

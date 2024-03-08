@@ -54,6 +54,8 @@ border-radius: 8px;
 width: 70px;
 height: 70px;
 font-style: italic;
+background-color: rgb(85, 231, 250);
+transition: 160ms
 }
 .resumen-btn{
 

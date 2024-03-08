@@ -56,14 +56,14 @@ height: 70px;
 font-style: italic;
 }
 .resumen-btn{
-margin-left: 80%;
+
 border-radius: 8px;
 background: burlywood;
-width: 180px;
-height: 50px;
+width: 160px;
+height: 40px;
 margin-bottom: 20px;
 margin-left: 60%;
-font-size: 20px;
+font-size: 16px;
 }
 .panel{
 margin-right: 1%;
@@ -73,4 +73,17 @@ margin-left: 55%;
 font-style: italic;
 height: 60px;
 transition: 100ms;
+}
+.imprimir-btn{
+border-radius: 8px;
+background: rgb(1, 196, 255);
+width: 160px;
+height: 40px;
+margin-left: 81.5%;
+font-size: 20px;
+margin-top: 3%;
+}
+.imprimir-btn:hover{
+height: 50px;
+transition: 80ms;
 }
